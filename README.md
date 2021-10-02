@@ -1,4 +1,4 @@
-![logo](https://github.com/gitqodeless/gitqodeless/blob/main/logo3.png?raw=true)
+![logo](https://github.com/gitqodeless/gitqodeless/blob/main/logo1.png?raw=true)
 
 # Desafio_06
 Desenvolver um sistema que soma a nota de 3 Alunos e emita RELATORIO EXCEL CSV: \
